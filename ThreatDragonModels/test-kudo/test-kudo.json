@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "test-kudo",
+    "owner": "test-kudo",
+    "description": "blabla"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "test-kudo"
+  }
+}
